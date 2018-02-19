@@ -2,13 +2,12 @@
 <br>
 
 <br>
-<br>
 　　　　　　　　　　　　　Naoki Takimoto
 ---
 今日話すこと
 <br>
 
-* 知らなかったことで起きた障害
+* 学ばなかったことで起きた障害
   * Android開発で遭遇した事例も含め
 * 実際に自分が行っている学び方
   * （できれば）皆さんのも教えてほしい
@@ -75,9 +74,9 @@ https://axia.co.jp/2017-07-18
 Android OSアップデート
 <br>
 
-* 年に1回ある
+* 年に1回ある(8,9月)
 * OSアップデートはユーザが任意で行う
-* アプリはそれに従うだけ
+* メーカー側の検証後にOSアップデートが行われるため、リリースされるのは3,4ヶ月はかかる
 
 ---
 ### 実例）Runtime Permission問題<br/>(2015年)
@@ -112,7 +111,7 @@ Android 5まで
 Android 6以降
 <br>
 
-<img src="assets/d.jpeg"  height="500px"/>
+<img src="assets/d.png"  height="500px"/>
 
 ---
 Runtime Permission
