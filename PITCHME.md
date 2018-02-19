@@ -7,9 +7,9 @@
 今日話すこと
 <br>
 
-* 学ばなかったことで起きた障害
+* 学ばなかった(知らなかった)ことで起きた障害
   * Android開発で遭遇した事例も含め
-* 実際に自分が行っている情報収集
+* 自分が行っている情報収集
   * （できれば）皆さんのも教えてほしい
 
 ---
@@ -241,7 +241,7 @@ Volleyの問題
 まとめ
 <br>
 
-* 学ばないと何とかならないことはある
+* 知らないと何とかならないことはある
 * 事前に知らないことが障害につながる
   * ググって解決できても、1発目の障害を防ぐことはできない
 * 逆を言えば、知っているだけでいい
@@ -252,7 +252,13 @@ Volleyの問題
 ### 知っていてうまくいったケース
 
 ---
-### 実際に自分が行っている情報収集
+### 言いたいことは
+
+---
+### 新しい情報を常に取り入れるようにしましょう
+
+---
+### 自分が行っている情報収集
 
 ---
 ニュースサイトを見る
@@ -285,9 +291,9 @@ http://tech.connehito.com/
 <br>
 
 * ユーザグループ主催
-  * Android Bazaar and Conference, DevFest Tokyo, Developers Summit
+  * Android Bazaar and Conference, DevFest Tokyo
 * 企業主催
-  * LINE DEVELOPER DAY, MANABIYA -teratail Developer Days-
+  * LINE DEVELOPER DAY, Developers Summit, MANABIYA -teratail Developer Days-
 * イベントやIT勉強会支援プラットフォーム
   * Conpass, Tech Play, Doorkeeper, ATND
 
