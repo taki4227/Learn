@@ -246,7 +246,44 @@ Volleyの問題
   * ググって解決できても、1発目の障害を防ぐことはできない
 * 逆を言えば、知っているだけでいい
   * すべてを理解している必要はない
-  * 対応するときにググればいい
+  * 実際に使うときにググればいい
+
+---
+### 実際に自分が行っている情報収集
+
+---
+ニュースサイトを見る
+<br>
+
+Google Developer Blog
+https://developers.googleblog.com/
+Tech Crunch
+http://jp.techcrunch.com/
+juggly.cn
+http://juggly.cn/
+Engadget
+http://japanese.engadget.com/tag/android/
+
+---
+勉強会へ参加
+<br>
+
+* ユーザグループ主催
+  * Android Bazaar and Conference, DevFest Tokyo, Developers Summit
+* 企業主催
+  * LINE DEVELOPER DAY, MANABIYA -teratail Developer Days-
+* イベントやIT勉強会支援プラットフォーム
+  * Conpass, Tech Play, Doorkeeper
+
+---
+SNSの活用
+<br>
+
+* Twitter
+  * 勉強会に登壇している人をフォロー
+* Slack
+  * モヒカンslack
+  https://gist.github.com/kotakanbe/e4232407b75e1ec584e7
 
 ---
 #### ありがとうございました
