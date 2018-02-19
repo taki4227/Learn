@@ -1,0 +1,33 @@
+#Theme Setting(black, moon, night, beige, sky, white が設定可)
+theme : beige
+
+#Background Setting
+#background : assets/bg.png
+
+#Logo Setting
+#logo : assets/logo.png
+
+#Slide Number Setting
+slide-number: true
+
+#Footnote Setting
+#footnote :  "ntakimoto"
+
+#Highlight Setting
+#highlight : monokai
+#highlight : mono-blue
+
+#Mouse Wheel Setting
+#mousewheel : true
+
+#Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
+transition : fade
+
+#Vertical Center Setting（falseで上詰め）
+#vertical-center : false
+
+#Auto Slide Setting(1000で1秒)
+#autoslide : 5000
+
+#Slideshow Custom CSS
+theme-override : assets/css/PITCHME.css
