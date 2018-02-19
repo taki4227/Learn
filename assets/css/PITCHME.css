@@ -3,6 +3,9 @@
     padding-left: 75px;
     font-size: 80%
 }
+.reveal ul li {
+    line-height: 1.5;
+}
 .reveal ul ul, .reveal ul ul ul{
     padding-left: 0px;
     font-size: 100%
