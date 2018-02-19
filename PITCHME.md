@@ -1,19 +1,23 @@
-### こんなカンファレンス行きました
-　　　　　　　　　　　　　〜2017/10〜
+### エンジニアが学ばないとこうなります@Android
 <br>
 
 <br>
 <br>
-　　　　　　　　　　　　　　taki4227
+　　　　　　　　　　　　　Naoki Takimoto
 ---
-今回行ったカンファレンス
+今日話すこと
 <br>
 
-* DevFest Tokyo 2017
-* Android Bazaar and Conference 2017 Autumn<br>（ABC 2017 Autumn）
+* 学ばなくて起きた障害
+  * Android開発をやってきての経験
+* 実際に自分が行っていること
+  * （できれば）皆さんのも教えてほしい
 
 ---
-### DevFest Tokyo 2017
+### まずはじめに
+
+---
+### このブログ見たことありますか？
 
 ---
 DevFest Tokyo 2017
