@@ -21,9 +21,9 @@
 
 ---
 
-オープニング
+エンジニアは業務時間外でも勉強するべきなのか
 <br>
-<img src="assets/a.jpg" />
+<img src="assets/a.png" />
 
 ---
 
