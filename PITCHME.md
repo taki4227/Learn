@@ -21,54 +21,54 @@
 
 ---
 
-エンジニアは業務時間外でも勉強するべきなのか
-<br>
-<img src="assets/a.png"  height="440px" />
+<img src="assets/a.png" />
 
 ---
 
 <img src="assets/b.png" />
 
 ---
-### レポート
+
+<img src="assets/b1.png" />
 
 ---
-個人スケジュール
+何とかなりそうな理由
 <br>
 
-<div style="padding-right: 75px; padding-left: 75px;">
-  <div>10:00　オープニング</div>
-  <div>10:40　クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？</div>
-  <div>11:30　大半のウェブサービス/アプリは、Firebaseなら簡単で安いですよ</div>
-  <div>12:10　昼休憩</div>
-  <div>13:20　ナビゲーションのUIベストプラクティス</div>
-  <div>14:10　React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み</div>
-  <div>15:00　FirebaseAnalytics + BigQuery + DataStudio</div>
-  <div>15:50　FlutterでAndroid/iOS両対応のアプリ開発</div>
-</div>
+* 環境構築は手順書に従うだけ
+* 既存コードを流用（コピペ）
+* 分からない部分はGoogleに聞けばいい
 
 ---
-オープニング
-<br>
-<img src="assets/dev_fest_opening.jpg" />
+### 本当にそうなのか？
 
 ---
-オープニング
-<br>
-<img src="assets/opening_me.jpg" />
+### いや、何とかなりません！！！<br/>（Androidの場合は）
 
 ---
-クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
-　[sinmetal](https://qiita.com/sinmetal)
+何とかならない理由
 <br>
 
-* クラウドのメリット
-  * H/Wのイニシャルコストが不要
-  * H/Wのリプレースも不要
-  * H/Wの構成を容易に変更可能
-* クラウドでもH/Wがデータセンターに存在し、日々壊れている
-  * H/Wが壊れたとしても、すぐ別のH/Wが生成され蘇る
-  * クラウドが壊れることを前提に設計を行う必要あり
+* OSなど環境を開発者は選べない
+  * OSアップデートはユーザに委ねられる
+  * 端末はメーカーが仕様を決めて発売される
+* アプリが動かなくなるのはアプリのバージョンアップに関わらず起こる
+
+---
+何とかならない要因
+<br>
+
+* Android OSアップデートがある
+* 新しい端末が常に出る
+* Googleの方針転換
+
+---
+何とかならない要因
+<br>
+
+* <bold>Android OSアップデートがある</bold>
+* 新しい端末が常に出る
+* Googleの方針転換
 
 ---
 クラウドってなんだろ？クラウドを活かすアプリケーション設計とは？
