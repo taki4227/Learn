@@ -255,14 +255,27 @@ Volleyの問題
 ニュースサイトを見る
 <br>
 
-Google Developer Blog
+* Google Developer Blog
 https://developers.googleblog.com/
-Tech Crunch
+* Tech Crunch
 http://jp.techcrunch.com/
-juggly.cn
+* juggly.cn
 http://juggly.cn/
-Engadget
+* Engadget
 http://japanese.engadget.com/tag/android/
+
+---
+技術ブログを見る
+<br>
+
+* クックパッド開発者ブログ
+http://techlife.cookpad.com/
+* ペパボ テックブログ
+https://tech.pepabo.com/
+* eureka tech blog
+https://developers.eure.jp/
+* connehito Engineer's Blog
+http://tech.connehito.com/
 
 ---
 勉強会へ参加
@@ -273,7 +286,7 @@ http://japanese.engadget.com/tag/android/
 * 企業主催
   * LINE DEVELOPER DAY, MANABIYA -teratail Developer Days-
 * イベントやIT勉強会支援プラットフォーム
-  * Conpass, Tech Play, Doorkeeper
+  * Conpass, Tech Play, Doorkeeper, ATND
 
 ---
 SNSの活用
@@ -284,6 +297,12 @@ SNSの活用
 * Slack
   * モヒカンslack
   https://gist.github.com/kotakanbe/e4232407b75e1ec584e7
+
+---
+#### 最後に
+
+---
+#### 皆さん、どうやって情報収集していますか？
 
 ---
 #### ありがとうございました
