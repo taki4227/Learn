@@ -20,6 +20,13 @@
 ### このブログ見たことありますか？
 
 ---
+
+オープニング
+<br>
+<img src="assets/a.jpg" />
+
+---
+
 DevFest Tokyo 2017
 <br>
 
