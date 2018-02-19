@@ -23,20 +23,11 @@
 
 エンジニアは業務時間外でも勉強するべきなのか
 <br>
-<img src="assets/a.png" />
+<img src="assets/a.png"  height="440px" />
 
 ---
 
-DevFest Tokyo 2017
-<br>
-
-<span>日時：2017/10/9(月) 10:00〜17:00</span><br>
-<span>場所：東京国際交流館</span><br>
-<span>主催：[東京で活躍している 14 のコミュニティ](https://tokyo.gdgjapan.org/team)</span><br>
-<span>人数：約1,000人</span><br>
-<span>内容：[タイムテーブル](https://tokyo.gdgjapan.org/schedule/day1)</span><br>
-<span>URL：https://tokyo.gdgjapan.org/</span><br>
-<img src="assets/logo_devfest2017.png" style="float: right;" height="100px" />
+<img src="assets/b.png" />
 
 ---
 ### レポート
