@@ -325,10 +325,19 @@ SNSの活用
     * この企業ならこの分野に強いなど紐付けてもいる
   * 自分が好きな人の記事
   * クローリングしてくれるまとめサイト
+
+---
+ブレストメモ
+<br>
 * 知らない話を聞いたら、後から調べる(古澤)
 * Qiitaの新着、人気記事を見る(花岡, keisuke)
 * 本のつまみ読みをする(星)
   * 使いそうな内容のところだけをページの角を折る
+* ライブラリのコードを読む
+
+---
+ブレストメモ
+<br>
 
 * ニュースサイト
   * Publickey
@@ -336,12 +345,25 @@ SNSの活用
   * POSTD
   http://postd.cc/
 
+* モヒカンslack
+  https://gist.github.com/kotakanbe/e4232407b75e1ec584e7
+  * #lang-php
+  * #slide_design系
+  * #blog-ja
+
+---
+ブレストメモ
+<br>
+
 * 技術ブログ
   * クラスメソッド
   https://dev.classmethod.jp/
-
-* モヒカンslack
-  https://gist.github.com/kotakanbe/e4232407b75e1ec584e7
+  * 徳丸浩の日記
+  https://blog.tokumaru.org/
+  * hidekatsu-izuno 日々の記録
+  http://hidekatsu-izuno.hatenablog.com/
+  * 津島博士のパフォーマンス講座
+  http://www.oracle.com/technetwork/jp/database/articles/tsushima/index.html
 
 ---
 #### ありがとうございました
