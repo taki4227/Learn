@@ -297,7 +297,7 @@ http://tech.connehito.com/
 * 企業主催
   * LINE DEVELOPER DAY, Developers Summit, MANABIYA -teratail Developer Days-
 * イベントやIT勉強会支援プラットフォーム
-  * Conpass, Tech Play, Doorkeeper, ATND
+  * Connpass, Tech Play, Doorkeeper, ATND
 
 ---
 SNSの活用
