@@ -2,7 +2,7 @@
 <br>
 
 <br>
-　　　　　　　　　　　　　Naoki Takimoto
+　　　　　　　　　　　　　taki4227
 ---
 今日話すこと
 <br>
